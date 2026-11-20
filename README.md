@@ -12,7 +12,7 @@ Projeto de terminal feito para praticar lógica com JavaScript. Ele permite cons
 Na pasta raiz do projeto, rode:
 
 ```bash
-node testandokakaka/neymar.js
+node miniProjetoSaldo/saldo.js
 ```
 
 O menu aparece novamente depois de cada operação. Escolha `4` para encerrar.
